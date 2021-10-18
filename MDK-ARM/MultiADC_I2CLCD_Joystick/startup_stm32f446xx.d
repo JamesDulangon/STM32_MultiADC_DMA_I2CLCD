@@ -1,0 +1,1 @@
+multiadc_i2clcd_joystick\startup_stm32f446xx.o: startup_stm32f446xx.s
